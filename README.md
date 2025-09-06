@@ -53,22 +53,5 @@ Stored content: Hello
 
 ☑️ Append!
 Updated content: Hello Solana is very Fast!
-📸 Screenshots / Diagrams
-👉 (Add images here)
-
-Solana Logo
-
-Anchor Framework logo
-
-Simple diagram of account realloc (old size → new size)
-
-🚀 Why this repo?
-This repo is a learning demo for:
-
-Account resizing in Anchor (realloc)
-
-PDAs & seeds
-
-Writing and testing Solana programs with Mocha
 
 Made with ❤️ using Solana + Anchor + Rust
